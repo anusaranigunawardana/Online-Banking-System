@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("bank.jpg");
+     background-size:auto;
+     background-position:center;
+     background-repeat: no-repeat;
+     height:100%;
+    width:100%;
+    /* background:rgba(0, 0, 0, 0.211); */
+    opacity:3.0;   
+}
+
+h2{
+    text-align:center;
+    padding: top 5px;
+    color:aliceblue;
+    font-size:35px;
+}
+
+p{
+    color:aliceblue;
+    font-size:20;
+    padding-top:10px;
+}
+
+h3{
+    padding: top 5px;
+    color:rgb(14, 192, 223);
+    font-size:25px;
+}
+
+
+.btn{
+    padding-top:5px;
+    margin-top: auto;
+}
+
+.logo{
+	width: 100px;
+	cursor: pointer;
+    padding: bottom 3px;
+    align-items:center;
+}
